@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h1{
+  font-size:72px;
+  color: purple;
+  background-color: antiquewhite;
+  text-align: center;
+  cursor: pointer;
+}
+
+
+
+.Form{
+  margin-top: 20px;
+  margin-left: 15px;
+  float: left;
+  display: flex;
+  width: 20%;
+  background-color: beige;
+}
+
+
+ button {
+background-color: brown;
+  border-radius: 5px;
+  cursor: pointer;
+ }
+
+ table{
+  margin-top: 25px;
+  border-collapse: collapse;
+  width: 100%;
+  
+ }
+
+
+thead tr th{
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 0.5px solid grey;
+  border-collapse: collapse;
+  background-color: aqua;
+}
